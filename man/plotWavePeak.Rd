@@ -20,6 +20,6 @@ A ggplot2 plot grob.
 \code{plotWavePeak} plots the peak, the snoothed peak, the local noise level, baseline, as well as wavelet and descent bounds
 }
 \seealso{
-\link{\code{wave}} \link{\code{estimateBaselineNoise}}
+\code{\link{wave}} \code{\link{estimateBaselineNoise}}
 }
 
