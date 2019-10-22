@@ -27,9 +27,9 @@ This function is a modification of the original cwt code provided by the centWav
 This code was modified from the originally published centWave algorithm [1].  The code was orginally distributed and obtained under the GPL2 license via the xcms software package [2]. The original algorithms depend on the wavelet analysis code included in the MassSpecWavelet package [3]. All code herein was obtained under the GPL2 license and remains under the GPL 3 license or greater.
 }
 \seealso{
-\link{\code{wave}} \link[dest=https://en.wikipedia.org/wiki/Continuous_wavelet_transform]{Continuous Wavelet Transform}
+\code{\link{wave}} \link[dest=https://en.wikipedia.org/wiki/Continuous_wavelet_transform]{Continuous Wavelet Transform}
 
-[1] Tautenhahn, R., Böttcher, C., & Neumann, S. (2008). Highly sensitive feature detection for high resolution LC/MS. BMC bioinformatics, 9(1), 1. \link[dest=http://dx.doi.org/10.1186/1471-2105-9-504]{http://dx.doi.org/10.1186/1471-2105-9-504}
+[1] Tautenhahn, R., BÃ¶ttcher, C., & Neumann, S. (2008). Highly sensitive feature detection for high resolution LC/MS. BMC bioinformatics, 9(1), 1. \link[dest=http://dx.doi.org/10.1186/1471-2105-9-504]{http://dx.doi.org/10.1186/1471-2105-9-504}
 [2] Smith, C. A., Want, E. J., O'Maille, G., Abagyan, R., & Siuzdak, G. (2006). XCMS: processing mass spectrometry data for metabolite profiling using nonlinear peak alignment, matching, and identification. Analytical chemistry, 78(3), 779-787. \link[dest=10.1021/ac051437y]{10.1021/ac051437y}
 [3] Du, P., Kibbe, W. A., & Lin, S. M. (2006). Improved peak detection in mass spectrum by incorporating continuous wavelet transform-based pattern matching. Bioinformatics, 22(17), 2059-2065. \link[dest=10.1093/bioinformatics/btl355]{10.1093/bioinformatics/btl355}
 }
